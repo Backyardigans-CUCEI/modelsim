@@ -1,7 +1,6 @@
 # MIPS(32 bits)
 
-## Proyecto final de Arquitectura de
-## Computadoras - Informática
+## Proyecto final de Arquitectura de Computadoras - Informática
 
 ## Características
 - Contador de programa(PC)
