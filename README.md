@@ -1,4 +1,4 @@
-# MIPS(32 bits)
+# Arquitectura MIPS(32 bits)
 
 ## Proyecto final de Arquitectura de Computadoras - Informática
 
